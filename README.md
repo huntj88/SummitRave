@@ -10,10 +10,10 @@ Inventory?
 #Player+Object Interactions
 Player > Wall = stop movement in direction
 Player > 
-#Player+NPC Interactions
-Player > Friendly = null
-Player > Friendly > Talk = Dialog Box
-Player > Friendly > Attack = null
+#PLAYER+NPC Interactions
+*Player > Friendly = null
+*Player > Friendly > Talk = Dialog Box
+*Player > Friendly > Attack = null
 #Player+Player Interactions
 
 #NPC+NPC Interactions

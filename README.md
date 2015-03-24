@@ -1,6 +1,6 @@
 # SummitRave
 
-#Player
+#Player /n
 Attack
 Run?
 Inventory?
